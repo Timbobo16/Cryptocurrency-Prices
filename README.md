@@ -2,7 +2,7 @@
 
 Simply download repository and open index.html in any modern web browser
 
-# Questionnaire
+# Questionnaire:
 
 ## 1. Are there any sub-optimal choices( or short cuts taken due to limited time ) in your implementation?
 > Are there any sub-optimal choices( or short cuts taken due to limited time ) in your implementation?
