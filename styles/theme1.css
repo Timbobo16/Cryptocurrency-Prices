@@ -1,0 +1,57 @@
+body {
+  background-color: white;
+  font-family: sans-serif;
+  color: black;
+  width: 56.25%;
+  min-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+h1 {
+  width: 37%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-weight: normal;
+}
+
+
+
+p {
+  font-size: 14px;
+}
+
+.mainDiv {
+  display: flex;
+  flex-direction: row;
+}
+
+.headerDiv {
+  flex-grow: 2;
+  min-height: 24%;
+  max-height: 24%;
+  text-align: left;
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom: 1px solid rgba(185, 185, 185, 1);
+}
+
+.bidaskDiv {
+  flex-grow: 2;
+  text-align: left;
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom: 1px solid rgba(185, 185, 185, 1);
+
+}
+
+.columnDiv {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+  flex-grow: 1;
+}
