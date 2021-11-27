@@ -4,13 +4,13 @@ Simply download repository and open index.html in any modern web browser
 
 # Questionnaire:
 
-## 1. Are there any sub-optimal choices( or short cuts taken due to limited time ) in your implementation?
+## 1. Are there any sub-optimal choices (or short cuts taken due to limited time) in your implementation?
 > Are there any sub-optimal choices( or short cuts taken due to limited time ) in your implementation?
 
 No
 
 
-## 2. Is any part of it over-designed? ( It is fine to over-design to showcase your skills as long as you are clear about it)
+## 2. Is any part of it over-designed?
 > Is any part of it over-designed? ( It is fine to over-design to showcase your skills as long as you are clear about it)
 
 No
