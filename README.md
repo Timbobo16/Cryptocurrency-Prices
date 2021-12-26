@@ -8,7 +8,7 @@ Simply download repository and open index.html in any modern web browser
 
 ## 1. Are there any sub-optimal choices (or short cuts taken due to limited time) in your implementation?
 
-No
+It lacks styling
 
 
 ## 2. Is any part of it over-designed?
